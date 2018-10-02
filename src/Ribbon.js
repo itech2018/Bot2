@@ -14,7 +14,7 @@ const Database = require('better-sqlite3'),
 
 class Ribbon {
   constructor (token) {
-    this.token = token;
+    this.token = NDMwNDAwODExNjU1MzY0NjA5.DpVAQA.MkRnUl8PWlR8gmMDYbjLMOhenwc;
     this.client = new Client({
       commandPrefix: '!',
       owner: ['112001393140723712', '268792781713965056'],
